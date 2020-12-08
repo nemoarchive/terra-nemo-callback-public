@@ -1,0 +1,5 @@
+{
+    "MonitorOptimus.optimus_submission_id" : "123-abc-uuid4",
+    "MonitorOptimus.terra_project" : "my-terra-project",
+    "MonitorOptimus.terra_workspace" : "my-terra-workspace"
+}
